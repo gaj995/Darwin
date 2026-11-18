@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="darwin_195e97d3497a" formatted="false">Agregar archivo</string>
+    <string name="darwin_74351f671150" formatted="false">Agrega un archivo SRT o WebVTT desde tu teléfono.</string>
+    <string name="darwin_da26459f30ce" formatted="false">Agregar y usar</string>
+    <string name="darwin_309ca9564613" formatted="false">Agregar a la fila</string>
+    <string name="darwin_abbecd2a6d5e" formatted="false">Agrega videos desde Biblioteca, Explorar o Archivos.</string>
+    <string name="darwin_16e1159fedfc" formatted="false">Se agregó a la biblioteca. El archivo original permanece en tu teléfono.</string>
+    <string name="darwin_1725829db059" formatted="false">Se agregó a la fila.</string>
+    <string name="darwin_6a72085653e4" formatted="false">Todos</string>
+    <string name="darwin_c0e8e58c1acc" formatted="false">Todas las fuentes</string>
+    <string name="darwin_8634859f0176" formatted="false">Bloquear siempre</string>
+    <string name="darwin_ed1c691b70e7" formatted="false">Apariencia y sincronización</string>
+    <string name="darwin_113e2601a4bc" formatted="false">Hasta 3 intentos de recuperación en 2 minutos. La recuperación nunca enciende la TV. Si el sitio restringe el video o el enlace caducó, vuelve a abrirlo.</string>
+    <string name="darwin_f02387fe5d8c" formatted="false">Audio y calidad</string>
+    <string name="darwin_3bb89c3f7a22" formatted="false">Idioma del audio</string>
+    <string name="darwin_72f3a5ec663b" formatted="false">Audio, subtítulos y calidad</string>
+    <string name="darwin_c614ba7c453c" formatted="false">Automática</string>
+    <string name="darwin_fcbbdb03b2f4" formatted="false">Automática · según conexión</string>
+    <string name="darwin_b52b36b7269f" formatted="false">Atrás</string>
+    <string name="darwin_22b081f261af" formatted="false">Big Buck Bunny · video de prueba  ↗</string>
+    <string name="darwin_58dfbe1e9e1b" formatted="false">Bloquear ventanas emergentes</string>
+    <string name="darwin_358a62c25eff" formatted="false">Bloquear anuncios del sitio</string>
+    <string name="darwin_2f3b5c55bc27" formatted="false">Explorar</string>
+    <string name="darwin_2d82126d2335" formatted="false">Explorar un sitio →</string>
+    <string name="darwin_77dfd2135f4d" formatted="false">Cancelar</string>
+    <string name="darwin_a456ad7f928a" formatted="false">Enviar YouTube</string>
+    <string name="darwin_59c0c312e177" formatted="false">Envía un video para comenzar</string>
+    <string name="darwin_ccd8f74668d4" formatted="false">Enviar a la TV</string>
+    <string name="darwin_9cd028c0b0d8" formatted="false">Transmitiendo a la TV</string>
+    <string name="darwin_820d6004b037" formatted="false">Verificando…</string>
+    <string name="darwin_f17a4c223d65" formatted="false">Elige un video en Explorar, Archivos o Biblioteca.</string>
+    <string name="darwin_cfc196681081" formatted="false">Elige un video y disfrútalo en la pantalla grande.</string>
+    <string name="darwin_cfcac9ce5166" formatted="false">Elegir archivo de subtítulos</string>
+    <string name="darwin_a4430425cbdd" formatted="false">Elige la versión que coincida con tu película.</string>
+    <string name="darwin_a3442dd46279" formatted="false">Elegir archivo de video</string>
+    <string name="darwin_7856f55d843e" formatted="false">Quitar elementos superpuestos</string>
+    <string name="darwin_4f915fd3fe2b" formatted="false">Limpiar vista</string>
+    <string name="darwin_ad9f31ca5a92" formatted="false">No se pudo enviar la orden</string>
+    <string name="darwin_b65463cb6a42" formatted="false">Conectar</string>
+    <string name="darwin_26df337f0810" formatted="false">Conectar Mac para buscar en línea</string>
+    <string name="darwin_ac51439a0f7b" formatted="false">Conectar herramientas de Mac</string>
+    <string name="darwin_1c7978054709" formatted="false">Conectar TV</string>
+    <string name="darwin_4876ede85933" formatted="false">Primero conecta el controlador de Mac.</string>
+    <string name="darwin_092df2e79709" formatted="false">Conecta el controlador local de Mac para usar el navegador de la TV.</string>
+    <string name="darwin_aa888ad71248" formatted="false">Conectar a Darwin</string>
+    <string name="darwin_0825f8a36d1d" formatted="false">Conéctate a Wi-Fi</string>
+    <string name="darwin_4387502e8f11" formatted="false">Conecta la TV para ajustar</string>
+    <string name="darwin_3a515df93692" formatted="false">Conecta tu TV  →</string>
+    <string name="darwin_c2f9b7b4897f" formatted="false">Conectado</string>
+    <string name="darwin_5daab653ee9d" formatted="false">Conectado a la TV</string>
+    <string name="darwin_fd3e79699426" formatted="false">Conectando…</string>
+    <string name="darwin_2e02623966f9" formatted="false">Continuar</string>
+    <string name="darwin_49b21ee34dd1" formatted="false">Controlador no disponible</string>
+    <string name="darwin_af74f7c5362a" formatted="false">Copiar</string>
+    <string name="darwin_d87a9c6579cb" formatted="false">No se pudieron agregar los subtítulos</string>
+    <string name="darwin_54de5e91f26b" formatted="false">No se pudieron exportar los registros</string>
+    <string name="darwin_df9e9f62ba23" formatted="false">No se pudo abrir la película</string>
+    <string name="darwin_93950bcef9f2" formatted="false">No se pudieron leer los subtítulos</string>
+    <string name="darwin_533522cc0f72" formatted="false">No se pudieron guardar los subtítulos</string>
+    <string name="darwin_f4e52db93774" formatted="false">No se pudo guardar el video</string>
+    <string name="darwin_2633d73690b8" formatted="false">Darwin para Android · transmite directamente por Wi-Fi</string>
+    <string name="darwin_6292be3e31b6" formatted="false">Inicio de Darwin</string>
+    <string name="darwin_a38bba12ab22" formatted="false">Darwin lee solo los datos necesarios, incluso en archivos de más de 100 GB. Mantén el teléfono conectado a Wi-Fi. Si la TV no reproduce el original, el teléfono adapta el video.</string>
+    <string name="darwin_c43e4c14eeb9" formatted="false">Versión de escritorio</string>
+    <string name="darwin_45af90f45453" formatted="false">Videos detectados</string>
+    <string name="darwin_3af2279f9e30" formatted="false">Diagnóstico</string>
+    <string name="darwin_e9b450d14bc2" formatted="false">Listo</string>
+    <string name="darwin_13f7aee77892" formatted="false">Antes</string>
+    <string name="darwin_4409ed1d8155" formatted="false">Adelantar −0.5 s</string>
+    <string name="darwin_4a25b7687a21" formatted="false">Subtítulos integrados</string>
+    <string name="darwin_649df08a448e" formatted="false">Inglés</string>
+    <string name="darwin_73d0081dba3d" formatted="false">Inglés y español latinoamericano. Los subtítulos importados y guardados funcionan directamente desde tu teléfono.</string>
+    <string name="darwin_2b9eceb7a86a" formatted="false">Aceptar</string>
+    <string name="darwin_476fdc200b1f" formatted="false">Escribe la dirección de un sitio o un enlace directo de video.</string>
+    <string name="darwin_7f2f6a15cf8d" formatted="false">Error</string>
+    <string name="darwin_304c2835cc31" formatted="false">Español · México / LATAM</string>
+    <string name="darwin_a3347115ca9b" formatted="false">Todo para tu TV, en un solo lugar.</string>
+    <string name="darwin_f3e4fadb9e37" formatted="false">Exportar</string>
+    <string name="darwin_07b3e447db02" formatted="false">Favoritos</string>
+    <string name="darwin_801dd1f0452e" formatted="false">El archivo es demasiado grande</string>
+    <string name="darwin_0d18b65c4c02" formatted="false">Archivo no disponible</string>
+    <string name="darwin_6ce6c512ea43" formatted="false">Archivos</string>
+    <string name="darwin_c769091aaed6" formatted="false">Buscar video</string>
+    <string name="darwin_c71a05222252" formatted="false">Encuéntralo.\nEnvíalo.\nDisfrútalo.</string>
+    <string name="darwin_51cd215290a4" formatted="false">Fuente · se guarda para la próxima vez</string>
+    <string name="darwin_0acfb447d639" formatted="false">Adelantar el video diez segundos</string>
+    <string name="darwin_3703cd216881" formatted="false">Estado</string>
+    <string name="darwin_a98342f0bf98" formatted="false">Ayuda con videos que necesitan datos del sitio de origen.</string>
+    <string name="darwin_a4f9034380e4" formatted="false">Ocultar teclado</string>
+    <string name="darwin_871838ef1726" formatted="false">Ocultar subtítulos</string>
+    <string name="darwin_835be9f0bbc5" formatted="false">Los videos de alta tasa de datos necesitan una conexión rápida. La conversión puede ser lenta en algunos teléfonos. La reproducción original conserva HDR; la conversión de HDR a SDR aún no está incluida.</string>
+    <string name="darwin_c996fbf57916" formatted="false">Sostén el teléfono vertical · Escanea el QR para vincular Android en tu TV</string>
+    <string name="darwin_70f8bb9a8a53" formatted="false">Inicio</string>
+    <string name="darwin_cc1ebdd04e76" formatted="false">En espera</string>
+    <string name="darwin_51bd1fbf0e4f" formatted="false">Importar SRT / VTT</string>
+    <string name="darwin_c3354ddae2b6" formatted="false">Importa un archivo de subtítulos o guarda un resultado para crear tu biblioteca.</string>
+    <string name="darwin_a3ada383c19f" formatted="false">Subtítulos importados</string>
+    <string name="darwin_18fc10b57597" formatted="false">Analizando película…</string>
+    <string name="darwin_a195ac69cc63" formatted="false">Analizando la película…</string>
+    <string name="darwin_3aaeaeb6ec3f" formatted="false">Enlace no válido</string>
+    <string name="darwin_fa05da4fcb9b" formatted="false">Código de vinculación no válido</string>
+    <string name="darwin_97ae5519c75c" formatted="false">Los archivos grandes permanecen en tu teléfono</string>
+    <string name="darwin_56e2f5d3634e" formatted="false">Después</string>
+    <string name="darwin_fa01daa1bd17" formatted="false">Retrasar +0.5 s</string>
+    <string name="darwin_976cd87fe770" formatted="false">Izquierda y derecha cambian la posición del video. OK confirma el momento elegido.</string>
+    <string name="darwin_b8100f5ba8bd" formatted="false">Biblioteca</string>
+    <string name="darwin_a6881116452d" formatted="false">Mediciones en tiempo real del teléfono y la TV.</string>
+    <string name="darwin_7878d8b5a2a0" formatted="false">Cargando tu biblioteca…</string>
+    <string name="darwin_a0dd8db6413c" formatted="false">Enlace del control local desde el QR de la TV</string>
+    <string name="darwin_126dd3b70a5c" formatted="false">Registros</string>
+    <string name="darwin_0d17a9d31e2a" formatted="false">Bajar un nivel el volumen de la TV</string>
+    <string name="darwin_08bce2d9a320" formatted="false">Mac</string>
+    <string name="darwin_359b56ac20a8" formatted="false">Mac y TV conectados.</string>
+    <string name="darwin_411f519a496d" formatted="false">Mac conectado. Abre Darwin en la TV.</string>
+    <string name="darwin_89e885d61a0b" formatted="false">Registros del controlador de Mac conectados</string>
+    <string name="darwin_b59d052093b6" formatted="false">Registros de Mac no disponibles. Inicia el controlador actualizado en la Mac.</string>
+    <string name="darwin_dc7da403f9fc" formatted="false">Herramientas de Mac</string>
+    <string name="darwin_1a92a7a57af9" formatted="false">Conexión con herramientas de Mac</string>
+    <string name="darwin_2288c900bb75" formatted="false">Mac no disponible. Inicia Darwin en la Mac para usar esta herramienta.</string>
+    <string name="darwin_df7ea09cbb64" formatted="false">Marcar como no visto</string>
+    <string name="darwin_09dfc5e6cba6" formatted="false">Transferencia de video</string>
+    <string name="darwin_c5c5533844c5" formatted="false">Monoespaciada</string>
+    <string name="darwin_4bab2d8fe13f" formatted="false">Más</string>
+    <string name="darwin_f0f85a73a2e2" formatted="false">Más de Darwin</string>
+    <string name="darwin_86c0a35ec883" formatted="false">Más opciones</string>
+    <string name="darwin_260ff8ae7182" formatted="false">Mover abajo</string>
+    <string name="darwin_525df57dc361" formatted="false">Mover a la izquierda</string>
+    <string name="darwin_3a43e56f34de" formatted="false">Mover a la derecha</string>
+    <string name="darwin_b4f57cd0cd5c" formatted="false">Mover arriba</string>
+    <string name="darwin_0e65bd96a647" formatted="false">Película</string>
+    <string name="darwin_b34ae1ce637a" formatted="false">Título de película o episodio</string>
+    <string name="darwin_0f0973483d91" formatted="false">Silenciar</string>
+    <string name="darwin_da1bea992f2e" formatted="false">Silenciar audio de la TV</string>
+    <string name="darwin_b9e78ced88a4" formatted="false">Silenciado</string>
+    <string name="darwin_0088863ce464" formatted="false">Navega, pulsa y escribe en la TV mediante el controlador local de Mac.</string>
+    <string name="darwin_cf03cf2e9cdf" formatted="false">Navegación</string>
+    <string name="darwin_833d30239642" formatted="false">Sin cuenta. Sin suscripción. Código abierto.</string>
+    <string name="darwin_fa7e8d85e4f3" formatted="false">Sin coincidencias. Prueba con un título más corto.</string>
+    <string name="darwin_8a4da3ebd214" formatted="false">Aún no hay eventos que coincidan.</string>
+    <string name="darwin_9249770e72f4" formatted="false">Aún no se detectaron videos</string>
+    <string name="darwin_faa01880c0d6" formatted="false">Tiempo de carga observado</string>
+    <string name="darwin_e3de5ab0ca4c" formatted="false">Desactivados</string>
+    <string name="darwin_e0049a66519c" formatted="false">Activado</string>
+    <string name="darwin_7ac1376f2a17" formatted="false">La búsqueda en línea usa el controlador local de Mac. La biblioteca de subtítulos guardados permanece en este teléfono.</string>
+    <string name="darwin_0b2534357d50" formatted="false">La fila avanza solo cuando termina el video. Si se detiene, ocurre un error u otro dispositivo toma el control, la fila queda en pausa. Abrir Darwin no inicia la fila automáticamente.</string>
+    <string name="darwin_3fecc8b06483" formatted="false">Abre Darwin en tu TV, elige Vincular Android y escanea el código QR. Sostén el teléfono vertical y conecta ambos dispositivos a la misma red Wi-Fi.</string>
+    <string name="darwin_22c412f36a42" formatted="false">Abre un sitio de videos, inicia la reproducción y envía el video a tu TV.</string>
+    <string name="darwin_bd13d5f4ec2c" formatted="false">Abre un sitio en Explorar e inicia el reproductor. Los videos protegidos y algunos reproductores integrados no se pueden transmitir.</string>
+    <string name="darwin_090793fc12b7" formatted="false">Primero abre un video individual de YouTube.</string>
+    <string name="darwin_e1fc538f86ca" formatted="false">Abrir registros</string>
+    <string name="darwin_9720e7c95dad" formatted="false">Abrir en la TV</string>
+    <string name="darwin_ee1dd38326c2" formatted="false">Abrir una vez</string>
+    <string name="darwin_2027c25ad829" formatted="false">O pega el enlace de vinculación</string>
+    <string name="darwin_2653dea1acad" formatted="false">Calidad original</string>
+    <string name="darwin_8549b161fbf9" formatted="false">Calidad original · se transmite por partes pequeñas</string>
+    <string name="darwin_106043a8bc61" formatted="false">Pega un enlace de sitio o video</string>
+    <string name="darwin_781961bc81c2" formatted="false">Pausar</string>
+    <string name="darwin_77064d526523" formatted="false">Teléfono</string>
+    <string name="darwin_5d12bd53552c" formatted="false">Reproducir</string>
+    <string name="darwin_a18396a32a49" formatted="false">Reproduce una película guardada en tu teléfono. MP4, MKV, AVI, MOV y más.</string>
+    <string name="darwin_328754b5b5f0" formatted="false">Reproducir desde el inicio</string>
+    <string name="darwin_ae0996eb5784" formatted="false">Reproducir el siguiente automáticamente</string>
+    <string name="darwin_223f5be25cf9" formatted="false">Reproducir el siguiente ahora</string>
+    <string name="darwin_9f42dd12748b" formatted="false">Reproducir en la TV</string>
+    <string name="darwin_c8e308704911" formatted="false">Reproducción</string>
+    <string name="darwin_bbfc68c9a017" formatted="false">Estado de reproducción</string>
+    <string name="darwin_b3096df63b5d" formatted="false">Modo de reproducción</string>
+    <string name="darwin_0d42ce847671" formatted="false">Inicia la reproducción en el sitio y abre Videos.</string>
+    <string name="darwin_0f8cc4f34d7f" formatted="false">Protección</string>
+    <string name="darwin_d325fcd91938" formatted="false">Agregar a la fila</string>
+    <string name="darwin_58b0b4c75910" formatted="false">Subir un nivel el volumen de la TV</string>
+    <string name="darwin_20c7c5522fc2" formatted="false">Listo</string>
+    <string name="darwin_414bbb16e221" formatted="false">Listos para la pantalla grande</string>
+    <string name="darwin_24c96f357ccf" formatted="false">Recuperar reproducción interrumpida</string>
+    <string name="darwin_1109d9dc4645" formatted="false">Transmitir a través de este teléfono</string>
+    <string name="darwin_cce7155371fc" formatted="false">Recargar</string>
+    <string name="darwin_c93f6536dcfb" formatted="false">Control</string>
+    <string name="darwin_e963907dac5c" formatted="false">Quitar</string>
+    <string name="darwin_61258e0b4afe" formatted="false">Quitar de la biblioteca</string>
+    <string name="darwin_7257583f4d05" formatted="false">Restablecer sincronización</string>
+    <string name="darwin_b3bd0b5a7049" formatted="false">Continuar</string>
+    <string name="darwin_84ce86ee95b5" formatted="false">Reintentar ahora</string>
+    <string name="darwin_b5508e65f764" formatted="false">Caché para retroceder</string>
+    <string name="darwin_52c39311d7bc" formatted="false">Retroceder el video diez segundos</string>
+    <string name="darwin_a6b75d16fdcf" formatted="false">La misma red Wi-Fi.\nMás espacio para disfrutar.</string>
+    <string name="darwin_3ff1b1c7f469" formatted="false">TV Samsung · Conectada</string>
+    <string name="darwin_c1ccf83eea10" formatted="false">Sin serif</string>
+    <string name="darwin_efc007a393f6" formatted="false">Guardar</string>
+    <string name="darwin_2113259da3e8" formatted="false">Guarda un video desde Explorar o agrega una película local para comenzar.</string>
+    <string name="darwin_2156b39718f9" formatted="false">Guardar y verificar</string>
+    <string name="darwin_9ea593a7a224" formatted="false">Guardados y enviados a la TV.</string>
+    <string name="darwin_70b2133792cc" formatted="false">Guardada en este teléfono. Continúa una película o prepara lo que sigue.</string>
+    <string name="darwin_69cb9c2ad223" formatted="false">Subtítulos guardados</string>
+    <string name="darwin_b67c07b28cba" formatted="false">Se guardó en la biblioteca.</string>
+    <string name="darwin_c12d54385272" formatted="false">Escanear QR de la TV</string>
+    <string name="darwin_e003d0bd0ba4" formatted="false">Escanea el QR de Vincular Android dentro de Darwin en la TV.</string>
+    <string name="darwin_3a2e1ba7f898" formatted="false">Desplazar hacia abajo</string>
+    <string name="darwin_4d07e752d987" formatted="false">Desplazar hacia arriba</string>
+    <string name="darwin_bce06414177f" formatted="false">Buscar</string>
+    <string name="darwin_e7b177f7af71" formatted="false">Buscar en OpenSubtitles</string>
+    <string name="darwin_abea65aedb99" formatted="false">Buscar mensajes</string>
+    <string name="darwin_c32b9f2a00ad" formatted="false">Búsqueda no disponible</string>
+    <string name="darwin_d9fa3f48df70" formatted="false">Buscar en tu biblioteca</string>
+    <string name="darwin_035a23825a34" formatted="false">Cambiar posición del video</string>
+    <string name="darwin_fee6c61f5735" formatted="false">Adelanta, pausa y agrega tus subtítulos sin tapar la pantalla.</string>
+    <string name="darwin_2c93fa9b1b88" formatted="false">Enviar texto</string>
+    <string name="darwin_898c330f84e5" formatted="false">Enviando video a tu TV por Wi-Fi</string>
+    <string name="darwin_a5c78a86fab1" formatted="false">Serif</string>
+    <string name="darwin_0cf48ff421f9" formatted="false">Mostrar subtítulos</string>
+    <string name="darwin_967f1a26292d" formatted="false">Sonido activado</string>
+    <string name="darwin_ce886b12309f" formatted="false">Estado del sonido no disponible</string>
+    <string name="darwin_830a80ca73fb" formatted="false">Tasa de datos de origen</string>
+    <string name="darwin_e7e77868288b" formatted="false">Español · LATAM</string>
+    <string name="darwin_d9e8646b236c" formatted="false">Español · Latinoamérica</string>
+    <string name="darwin_1f7a2c7537aa" formatted="false">Detener transmisión</string>
+    <string name="darwin_04db8447931e" formatted="false">Retransmisión de video</string>
+    <string name="darwin_1607f7b27908" formatted="false">Fondo de subtítulos</string>
+    <string name="darwin_001c676cc003" formatted="false">La biblioteca de subtítulos está llena</string>
+    <string name="darwin_17770471cb9f" formatted="false">Subtítulos</string>
+    <string name="darwin_10bec5f446bb" formatted="false">Registros de TV y teléfono</string>
+    <string name="darwin_adecd9573b33" formatted="false">Eventos de TV y teléfono, más registros del controlador de Mac cuando está conectado. Las credenciales se ocultan.</string>
+    <string name="darwin_21384db095c2" formatted="false">Navegador de la TV</string>
+    <string name="darwin_7d8fe603987d" formatted="false">El navegador de la TV, los registros completos y la búsqueda en OpenSubtitles usan el controlador local de Mac. La transmisión y la biblioteca del teléfono son independientes.</string>
+    <string name="darwin_f5cda2b3d759" formatted="false">La imagen de la TV aparece cuando su navegador está abierto. Usa Control para la reproducción de video.</string>
+    <string name="darwin_88f7cc200bcb" formatted="false">Volumen de la TV</string>
+    <string name="darwin_557a74f6799d" formatted="false">Nivel de volumen de la TV no disponible</string>
+    <string name="darwin_da299d57b091" formatted="false">Navegación de la TV</string>
+    <string name="darwin_6c19838577df" formatted="false">Control de la TV</string>
+    <string name="darwin_fe11b9c86797" formatted="false">TV no conectada</string>
+    <string name="darwin_19b33126a210" formatted="false">Toca la imagen de la TV para pulsar</string>
+    <string name="darwin_0980d388d3a9" formatted="false">La TV no ha informado su volumen. Usa −1, +1 o silenciar.</string>
+    <string name="darwin_3dbcb2e7040d" formatted="false">La fuente y el tamaño elegidos se guardan para los próximos videos.</string>
+    <string name="darwin_c23e1aa193e2" formatted="false">Esta transmisión en vivo no permite retroceder.</string>
+    <string name="darwin_036da9fe7270" formatted="false">El QR de vinculación está incompleto. Escanea de nuevo Vincular Android en tu TV.</string>
+    <string name="darwin_9398f2273a06" formatted="false">Este reproductor usa contenido protegido. Es posible que no se pueda transmitir directamente.</string>
+    <string name="darwin_928111661773" formatted="false">Esta fuente ofrece una sola calidad.</string>
+    <string name="darwin_b1095f358480" formatted="false">Activar o desactivar silencio de la TV</string>
+    <string name="darwin_d863ef653788" formatted="false">Cambiar silencio</string>
+    <string name="darwin_7fe6ad367e14" formatted="false">La tasa mide los datos de video enviados, no la capacidad del Wi-Fi. Al cambiar la posición de archivos convertidos, el reproductor vuelve a abrirse. La caché conserva segmentos completos de videos grabados y rangos exactos de datos.</string>
+    <string name="darwin_027666bf88a5" formatted="false">Escribe en el campo seleccionado en la TV</string>
+    <string name="darwin_2c9c1f79142d" formatted="false">No disponible</string>
+    <string name="darwin_bc7819b34ff8" formatted="false">Desconocido</string>
+    <string name="darwin_7044c3104095" formatted="false">Activar sonido</string>
+    <string name="darwin_a2afb270bf6b" formatted="false">Activar audio de la TV</string>
+    <string name="darwin_567bfc4dad37" formatted="false">A continuación</string>
+    <string name="darwin_6e24f03e31cf" formatted="false">Usar en la TV</string>
+    <string name="darwin_ee21f665ff09" formatted="false">Usa el enlace del control local de Mac del QR principal de la TV.</string>
+    <string name="darwin_bc17c1f0179a" formatted="false">Video</string>
+    <string name="darwin_073b27fb7fe0" formatted="false">Posición de reproducción del video</string>
+    <string name="darwin_baf4d062f51b" formatted="false">Calidad de video</string>
+    <string name="darwin_56b71e89fb10" formatted="false">Videos</string>
+    <string name="darwin_a143947cdbb7" formatted="false">Videos encontrados en la página que exploras. Elige uno después de iniciar la reproducción en el sitio.</string>
+    <string name="darwin_17e17e6fb4ff" formatted="false">Control de volumen no disponible</string>
+    <string name="darwin_e9c45563358e" formatted="false">Advertencia</string>
+    <string name="darwin_de9a3242d1b8" formatted="false">Visto</string>
+    <string name="darwin_8a1252f1b27b" formatted="false">Sitio web en la TV</string>
+    <string name="darwin_13b7bfcac438" formatted="false">Procesando…</string>
+    <string name="darwin_94331dffc163" formatted="false">Video de YouTube</string>
+    <string name="darwin_66b0aba59f5c" formatted="false">Tus archivos. Tu pantalla.</string>
+    <string name="darwin_41bb0474a997" formatted="false">Tu biblioteca</string>
+    <string name="darwin_6b9f6364ddb5" formatted="false">Tu teléfono controla esta fila mientras transmite. Mantenlo conectado a Wi-Fi.</string>
+    <string name="darwin_83303a628a2d" formatted="false">El nivel de volumen se conserva mientras está silenciado.</string>
+    <string name="darwin_c32ae9f4a77d" formatted="false">← Atrás</string>
+    <string name="darwin_9c98d6294b12" formatted="false">PELÍCULA LOCAL</string>
+    <string name="darwin_dab2f4fa8539" formatted="false">VIDEO</string>
+    <string name="darwin_827618012ce5" formatted="false">REPRODUCCIÓN DE VIDEO</string>
+    <string name="darwin_6990f01ad9d2" formatted="false">EN VIVO</string>
+    <string name="darwin_3f275254b4f0" formatted="false">TU TELÉFONO ES EL CONTROL</string>
+    <string name="darwin_64a40b7f219d" formatted="false">PRUEBA UN VIDEO</string>
+    <string name="darwin_604675c46cfa" formatted="false">Transmisión HLS</string>
+    <string name="darwin_afe3b28641be" formatted="false">Transmisión DASH</string>
+    <string name="darwin_2c3cafa4db3f" formatted="false">Archivo</string>
+    <string name="darwin_bc81524a554d" formatted="false">Directo</string>
+    <string name="darwin_98a532b74df1" formatted="false">YouTube</string>
+    <string name="darwin_298c39056151" formatted="false">Reproduciendo</string>
+    <string name="darwin_c7dfb6f1d9c5" formatted="false">En pausa</string>
+    <string name="darwin_23dd82d623fb" formatted="false">Cargando</string>
+    <string name="darwin_7725e05476ed" formatted="false">Iniciando</string>
+    <string name="darwin_c1f3b71fdf88" formatted="false">Conectando</string>
+    <string name="darwin_0496ee3fee94" formatted="false">Buscando video</string>
+    <string name="darwin_51e9111b8711" formatted="false">Detenido</string>
+    <string name="darwin_90303d8df23e" formatted="false">Finalizado</string>
+    <string name="darwin_c0a8060f3b11" formatted="false">Original</string>
+    <string name="darwin_8ee01a7b8633" formatted="false">Reempaquetado</string>
+    <string name="darwin_3f15ce79532d" formatted="false">Conversión</string>
+    <string name="darwin_d73ef92426f2" formatted="false">Original</string>
+    <string name="darwin_1753223d2190" formatted="false">Reempaquetado</string>
+    <string name="darwin_20a70aaf7e25" formatted="false">Conversión</string>
+    <string name="darwin_5863973edc67" formatted="false">Reproduciendo</string>
+    <string name="darwin_11b1b5ec9167" formatted="false">En pausa</string>
+    <string name="darwin_e17c27b77fce" formatted="false">Cargando</string>
+    <string name="darwin_9493af057b02" formatted="false">Iniciando</string>
+    <string name="darwin_f3b2a7db06a5" formatted="false">Conectando</string>
+    <string name="darwin_cb7da9351142" formatted="false">Buscando video</string>
+    <string name="darwin_5acf41112413" formatted="false">Detenido</string>
+    <string name="darwin_ba92ed73c97b" formatted="false">Finalizado</string>
+    <string name="darwin_1adbcc344b31" formatted="false">En espera</string>
+    <string name="darwin_11f9578d05e6" formatted="false">Error</string>
+    <string name="darwin_c7f73bb54d92" formatted="false">Configuración</string>
+    <string name="darwin_01e1787a9e5b" formatted="false">Idioma de la app</string>
+    <string name="darwin_2516e0aa4cdd" formatted="false">Elige el idioma de todas las pantallas de Darwin. Tu elección se guarda en este teléfono.</string>
+    <string name="darwin_6b5b150f4bd3" formatted="false">English (inglés)</string>
+    <string name="darwin_570a51308425" formatted="false">Español (México)</string>
+    <string name="darwin_05d09cb13d79" formatted="false">English · Inglés</string>
+    <string name="darwin_419eeb54ddd6" formatted="false">Español · México</string>
+    <string name="darwin_f9f2d9bb8743" formatted="false">Cambiar el idioma no detiene el video en tu TV.</string>
+    <string name="darwin_73de4c6fb38d" formatted="false">Idioma de la interfaz</string>
+    <string name="darwin_20ab5f750c63" formatted="false">Preferencias del dispositivo y la app.</string>
+    <string name="darwin_975e3310d48e" formatted="false">Elige un archivo que contenga video.</string>
+    <string name="darwin_9670556f23a2" formatted="false">Faltan herramientas de compatibilidad para este dispositivo. Instala el APK completo de Darwin.</string>
+    <string name="darwin_cee017eeb7d8" formatted="false">No se pudo leer la duración de este archivo.</string>
+    <string name="darwin_6ff648b1ad5f" formatted="false">Las herramientas de video no pudieron leer este archivo.</string>
+    <string name="darwin_cc6af2dee47e" formatted="false">Escanea el QR de Vincular Android en tu TV.</string>
+    <string name="darwin_68e5e50c61a8" formatted="false">Usa la dirección Wi-Fi privada de la TV.</string>
+    <string name="darwin_a4341c356dc8" formatted="false">Otro dispositivo controla la reproducción.</string>
+    <string name="darwin_224eae05cfb4" formatted="false">Transmisión detenida.</string>
+    <string name="darwin_124051569934" formatted="false">Primero conéctate a tu TV.</string>
+    <string name="darwin_dc9cd5a66a71" formatted="false">Conectando a la TV…</string>
+    <string name="darwin_9ecdf8ea0c2d" formatted="false">No se pudo abrir el nuevo video. La reproducción actual continúa.</string>
+    <string name="darwin_8540287db50a" formatted="false">No se pudo reproducir este video</string>
+    <string name="darwin_379e2bf5f10c" formatted="false">Vincular de nuevo</string>
+    <string name="darwin_8671c4748532" formatted="false">Falló la reproducción</string>
+    <string name="darwin_2c435043c4d1" formatted="false">La reproducción terminó.</string>
+    <string name="darwin_c1bca0eaabda" formatted="false">Reproduciendo en la TV</string>
+    <string name="darwin_aaf95f7008f3" formatted="false">Recuperación en pausa. Vuelve a conectar o reintenta cuando quieras.</string>
+    <string name="darwin_fe6483b034f3" formatted="false">Recuperación en pausa. Reintenta cuando quieras.</string>
+    <string name="darwin_e7d859ce01d3" formatted="false">Escanea el QR de la TV para vincular Android.</string>
+    <string name="darwin_9297fa31675e" formatted="false">Enviado a la TV. Esperando la reproducción.</string>
+    <string name="darwin_a4c88e87c772" formatted="false">Reproducción detenida</string>
+    <string name="darwin_73fd425b99b8" formatted="false">Subtítulos no disponibles</string>
+    <string name="darwin_3040018c104f" formatted="false">Subtítulos enviados a la TV.</string>
+    <string name="darwin_9caec5b15421" formatted="false">La TV no confirmó la reproducción. Revisa la TV o reintenta.</string>
+    <string name="darwin_8c6e31c530d0" formatted="false">La TV se desconectó antes de reproducir.</string>
+    <string name="darwin_06b230452d24" formatted="false">Archivo vacío</string>
+    <string name="darwin_9853e5df203f" formatted="false">Rango no válido</string>
+    <string name="darwin_576b4031db44" formatted="false">Enlace de lista no válido</string>
+    <string name="darwin_8c7a825d3c79" formatted="false">Redirección no válida</string>
+    <string name="darwin_0e46a9f02ac8" formatted="false">Primero conecta tu teléfono a Wi-Fi.</string>
+    <string name="darwin_9b295735b39f" formatted="false">Transmisión vacía</string>
+    <string name="darwin_2e942158a775" formatted="false">Dirección privada de origen bloqueada</string>
+    <string name="darwin_d48d2e4a9298" formatted="false">La sesión de transmisión es demasiado grande; vuelve a transmitir.</string>
+    <string name="darwin_5cd0f72bdf35" formatted="false">Demasiadas redirecciones</string>
+    <string name="darwin_2f2e064e1de6" formatted="false">Redirección no segura</string>
+    <string name="darwin_b54234290a9a" formatted="false">Elige un archivo de subtítulos de menos de 1 MB.</string>
+    <string name="darwin_52c2dee08ba1" formatted="false">Tiempo de subtítulos no válido</string>
+    <string name="darwin_4b94a787fb51" formatted="false">No se encontraron subtítulos. Elige un archivo SRT o WebVTT.</string>
+    <string name="darwin_8aee7fc7fc8a" formatted="false">Demasiadas líneas de subtítulos.</string>
+    <string name="darwin_05a12030a269" formatted="false">Elige un archivo descargado cuyo tamaño se pueda leer.</string>
+    <string name="darwin_ea749f554dab" formatted="false">Conecta el teléfono a Wi-Fi.</string>
+    <string name="darwin_9c076486a328" formatted="false">Transmisión caducada</string>
+    <string name="darwin_e3185e6d15dd" formatted="false">Se revocó el acceso al archivo</string>
+    <string name="darwin_e7d8adead9f9" formatted="false">Pista no válida</string>
+    <string name="darwin_8874019c1c3f" formatted="false">La sesión terminó</string>
+    <string name="darwin_00d64a61b7f5" formatted="false">Este proveedor no permite cambiar la posición. Elige el archivo descargado desde el almacenamiento del dispositivo.</string>
+    <string name="darwin_aa042c21c2b8" formatted="false">La biblioteca sigue cargando. Inténtalo en un momento.</string>
+    <string name="darwin_6a4eb4445c84" formatted="false">La biblioteca admite 500 videos. Primero elimina uno que no uses.</string>
+    <string name="darwin_ff68c019b971" formatted="false">Esta versión no transmite YouTube en vivo. Prueba con un video público grabado.</string>
+    <string name="darwin_f14f6bb80fd7" formatted="false">No se encontró audio compatible de YouTube.</string>
+    <string name="darwin_377454230e0c" formatted="false">No se encontraron videos públicos de YouTube compatibles.</string>
+    <string name="darwin_90624cc3db18" formatted="false">Servidor de video inesperado</string>
+    <string name="darwin_93dd53127a6c" formatted="false">Clave de vinculación no válida</string>
+    <string name="darwin_f3b4adbafba3" formatted="false">Recurso DASH fuera de la sesión</string>
+    <string name="darwin_292468c4c628" formatted="false">No se pueden transmitir videos protegidos con DRM</string>
+    <string name="darwin_91d5a1e16aef" formatted="false">Entidad DASH externa bloqueada</string>
+    <string name="darwin_5abf712f297f" formatted="false">Ruta DASH no válida</string>
+    <string name="darwin_52c9de20c90d" formatted="false">Recurso DASH no válido</string>
+    <string name="darwin_4198535b0116" formatted="false">No es un manifiesto DASH</string>
+    <string name="darwin_92fafe41f1ff" formatted="false">Declaración DASH no compatible</string>
+    <string name="darwin_ba4e72261283" formatted="false">Adelante</string>
+    <string name="darwin_1f1980f33f91" formatted="false">Conectando a la TV…</string>
+    <string name="darwin_4d345aab74a5" formatted="false">TV desconectada. Abre Darwin y vuelve a conectar.</string>
+    <string name="darwin_5d5d69a7080e" formatted="false">TV desconectada</string>
+    <string name="darwin_29b1a92335a7" formatted="false">Abre Darwin en la TV y verifica que ambos dispositivos usen la misma red Wi-Fi.</string>
+    <string name="darwin_ec8506b1fab0" formatted="false">Compatibilidad</string>
+    <string name="darwin_a8923bb6da55" formatted="false">Conversión de video</string>
+    <string name="darwin_2e0b45f2a456" formatted="false">Ir</string>
+    <string name="darwin_56ab49a5c68f" formatted="false">TV</string>
+    <string name="darwin_9ce3bd4224c8" formatted="false">OK</string>
+    <string name="darwin_9c8ac396f53c">Videos detectados · %1$s</string>
+    <string name="darwin_f53527aa106a">Se guardaron %1$s líneas de subtítulos.</string>
+    <string name="darwin_ee3de7f9e1fb">El controlador de Mac devolvió HTTP %1$s</string>
+    <string name="darwin_71a2339513be">Tamaño · %1$s px</string>
+    <string name="darwin_7698ae39dadb">Retraso de subtítulos · %1$s segundos</string>
+    <string name="darwin_e297d5f1b642">Velocidad de subtítulos · %1$s%%</string>
+    <string name="darwin_37780c0521b8">Volumen de la TV: %1$s de 100</string>
+    <string name="darwin_c23ce670c3e5">%1$s de 100</string>
+    <string name="darwin_7388d66750e0">%1$s de %2$s</string>
+    <string name="darwin_55d8f8bccd8f">%1$s segundos</string>
+    <string name="darwin_32c96780ef6d">%1$s MB · %2$s aciertos de caché</string>
+    <string name="darwin_e03f57c74c10">Español · Latinoamérica · %1$s líneas</string>
+    <string name="darwin_29e0c911b53c">Inglés · %1$s líneas</string>
+    <string name="darwin_0fe6e321c600">%1$s quiere abrir una página</string>
+    <string name="darwin_280a059029b3">Video enviado: %1$s</string>
+    <string name="darwin_30008c7c2121">Preparando %1$s</string>
+    <string name="darwin_41b3cdcc782f">Esperando para recuperar la reproducción · intento %1$s de 3</string>
+</resources>
